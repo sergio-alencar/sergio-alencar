@@ -1,24 +1,42 @@
-## Bem-vindo(a) ao meu perfil
+<h2>About me</h2>
+<p align="left">Front-end developer with experience in building functional and user-focused interfaces.</p>
 
- <div>
-   <a href="https://github.com/sergio-alencar">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergio-alencar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-alencar&layout=compact&langs_count=6&theme=tokyonight"/>
+###
+
+<h2 align="left">Techs and tools</h2>
+<div align="left">
+  <img alt="React" title="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img width="12" />
+  <img alt="JavaScript" title="JavaScript" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/ >
+  <img width="12" />
+  <img alt="HTML" title="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img width="12" />
+  <img alt="CSS" title="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
-    
-<div style="display: inline_block"><br>
- <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+###
+
+<h2 align="left">Contact</h2>
+<div align="left">
+ 	<a href = "https://wa.me/5531994396187" target="_blank">
+  		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40" />
+	</a>
+ 	<img width="12" />
+ 	<a href = "mailto:sergiofalencar@gmail.com" target="_blank">
+  		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" />
+	</a>
+  	<img width="12" />
+ 		<a href="https://www.linkedin.com/in/sergio-alencar" target="_blank">
+  	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" />
+   	</a>
+	<img width="12" />
+	<a href="https://instagram.com/sergiodealencar" target="_blank">
+		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" />
+	</a>
 </div>
- 
-<br>
- 
-### Você me encontra nas redes abaixo:
- 
-<div> 
-  <a href="https://instagram.com/sergiodealencar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:sergiofalencar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sergio-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+###
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=sergio-alencar&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-alencar&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
