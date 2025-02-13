@@ -1,4 +1,4 @@
-<h2>About me</h2>
+<h2 align="left">About me</h2>
 <p align="left">Front-end developer with experience in building functional and user-focused interfaces.</p>
 
 ###
@@ -26,8 +26,8 @@
   		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" />
 	</a>
   	<img width="12" />
- 		<a href="https://www.linkedin.com/in/sergio-alencar" target="_blank">
-  	<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" />
+	<a href="https://www.linkedin.com/in/sergio-alencar" target="_blank">
+  		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" />
    	</a>
 	<img width="12" />
 	<a href="https://instagram.com/sergiodealencar" target="_blank">
@@ -39,4 +39,4 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=sergio-alencar&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-alencar&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sergio-alencar&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-alencar&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
