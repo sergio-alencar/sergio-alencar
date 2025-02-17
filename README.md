@@ -18,19 +18,19 @@
 
 <h2 align="left">Contact</h2>
 <div align="left">
- 	<a href = "https://wa.me/5531994396187" target="_blank">
+ 	<a href = "https://wa.me/5531994396187" style="text-decoration: none" target="_blank">
   		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40" />
 	</a>
  	<img width="12" />
- 	<a href = "mailto:sergiofalencar@gmail.com" target="_blank">
+ 	<a href = "mailto:sergiofalencar@gmail.com" style="text-decoration: none" target="_blank">
   		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" />
 	</a>
   	<img width="12" />
-	<a href="https://www.linkedin.com/in/sergio-alencar" target="_blank">
+	<a href="https://www.linkedin.com/in/sergio-alencar" style="text-decoration: none" target="_blank">
   		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" />
    	</a>
 	<img width="12" />
-	<a href="https://instagram.com/sergiodealencar" target="_blank">
+	<a href="https://instagram.com/sergiodealencar" style="text-decoration: none" target="_blank">
 		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" />
 	</a>
 </div>
