@@ -9,9 +9,11 @@
 	<img width="16" />
 	<img alt="JavaScript" title="JavaScript" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/ >
 	<img width="16" />
-	<img alt="HTML" title="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+	<img alt="PHP" title="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 	<img width="16" />
 	<img alt="CSS" title="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+	<img width="16" />
+	<img alt="HTML" title="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 	<img width="16" />
 	<img alt="Figma" title="Figma" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 	<img width="16" />
@@ -35,4 +37,7 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=sergio-alencar&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-alencar&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="left">
+	<img align="top"  src="https://github-readme-stats.vercel.app/api?username=sergio-alencar&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" alt="Sérgio Alencar's GitHub Stats" />
+	<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-alencar&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&layout=donut" alt="Sérgio Alencar's Most Used Languages" />
+</div>
