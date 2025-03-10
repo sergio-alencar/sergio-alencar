@@ -13,6 +13,8 @@
 	<img width="16" />
 	<img alt="wordpress" title="WordPress" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" />
 	<img width="16" />
+	<img alt="Tailwind" title="Tailwind" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
+	<img width="16" />
 	<img alt="CSS" title="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 	<img width="16" />
 	<img alt="HTML" title="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
