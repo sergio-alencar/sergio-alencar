@@ -9,9 +9,15 @@
 	<img width="16" />
 	<img alt="JavaScript" title="JavaScript" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/ >
 	<img width="16" />
+	<img alt="Python" title="Python" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg"/ >
+	<img width="16" />
+	<img alt="PostgreSQL" title="PostgreSQL" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg"/ >
+	<img width="16" />
+	<img alt="MySQL" title="MySQL" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg"/ >
+	<img width="16" />
 	<img alt="PHP" title="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 	<img width="16" />
-	<img alt="wordpress" title="WordPress" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" />
+	<img alt="wordpress" title="WordPress" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-plain.svg" />
 	<img width="16" />
 	<img alt="Tailwind" title="Tailwind" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
 	<img width="16" />
