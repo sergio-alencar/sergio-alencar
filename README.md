@@ -39,8 +39,6 @@
 	<a href="mailto:sergiofalencar@gmail.com" title="Email" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" /></a>
 	<img width="16" />
 	<a href="https://www.linkedin.com/in/sergio-alencar" title="LinkedIn" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" /></a>
-	<img width="16" />
-	<a href="https://instagram.com/sergiodealencar" title="Instagram" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" /></a>
 </div>
 
 ###
