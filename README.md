@@ -1,5 +1,5 @@
 <h2 align="left">About me</h2>
-<p align="left">Front-end developer with experience in building functional and user-focused interfaces.</p>
+<p align="left">Full-stack developer with experience in designing functional and user-centered interfaces, as well as database development and manipulation.</p>
 
 ###
 
