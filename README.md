@@ -9,6 +9,8 @@
 	<img width="16" />
 	<img alt="JavaScript" title="JavaScript" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/ >
 	<img width="16" />
+	<img alt="TypeScript" title="TypeScript" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/ >
+	<img width="16" />
 	<img alt="Python" title="Python" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg"/ >
 	<img width="16" />
 	<img alt="PostgreSQL" title="PostgreSQL" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg"/ >
