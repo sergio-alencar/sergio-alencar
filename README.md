@@ -31,7 +31,6 @@
 	<img width="16" />
 	<img alt="Figma" title="Figma" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 	<img width="16" />
-	<img alt="Git" title="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
 
 ###
