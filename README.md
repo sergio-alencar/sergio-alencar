@@ -50,5 +50,5 @@
 
 <div align="left">
 	<img align="top"  src="https://github-readme-stats.vercel.app/api?username=sergio-alencar&theme=transparent&include_all_commits=true" alt="Sérgio Alencar's GitHub Stats" />
-	<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-alencar&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&layout=donut" alt="Sérgio Alencar's Most Used Languages" />
+	<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-alencar&theme=transparent&include_all_commits=true&count_private=true&layout=donut" alt="Sérgio Alencar's Most Used Languages" />
 </div>
