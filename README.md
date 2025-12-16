@@ -13,6 +13,8 @@
 	<img width="16" />
 	<img alt="Python" title="Python" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg"/ >
 	<img width="16" />
+	<img alt="CSharp" title="C#" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg"/ >
+	<img width="16" />
 	<img alt="PostgreSQL" title="PostgreSQL" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg"/ >
 	<img width="16" />
 	<img alt="MySQL" title="MySQL" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg"/ >
