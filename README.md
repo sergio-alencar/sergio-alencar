@@ -37,22 +37,10 @@
 
 ## Most used languages
 
-- **PHP** – 27.28%
-- **JavaScript** – 25.90%
-- **CSS** – 21.39%
-- **HTML** – 18.45%
-- **TypeScript** – 4.68%
-- **C#** – 1.97%
-- **Shell** – 0.29%
-- **Dockerfile** – 0.04%
-
-###
-
-<h2 align="left">Contact</h2>
-<div align="left">
-	<a href="https://wa.me/5531994396187" title="WhatsApp" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40" /></a>
-	<img width="16" />
-	<a href="mailto:sergiofalencar@gmail.com" title="Email" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" /></a>
-	<img width="16" />
-	<a href="https://www.linkedin.com/in/sergio-alencar" title="LinkedIn" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" /></a>
-</div>
+- 🐘 **PHP** – 27.27%
+- 🟨 **JavaScript** – 25.93%
+- 🎨 **CSS** – 21.38%
+- 📄 **HTML** – 18.44%
+- 🔷 **TypeScript** – 4.68%
+- 🎯 **C#** – 1.97%
+- 📦 **Others** – 0.33%
