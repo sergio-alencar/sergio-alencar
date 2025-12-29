@@ -1,6 +1,24 @@
 import fs from "fs";
 import fetch from "node-fetch";
 
+const LANGUAGE_EMOJIS = {
+  JavaScript: "🟨",
+  TypeScript: "🔷",
+  Python: "🐍",
+  PHP: "🐘",
+  HTML: "📄",
+  CSS: "🎨",
+  Shell: "🐚",
+  Dockerfile: "🐳",
+  "C#": "🎯",
+  SQL: "🗄️",
+  PowerShell: "💠",
+  Go: "🐹",
+  Rust: "🦀",
+  Java: "☕",
+  Others: "📦",
+};
+
 const token = process.env.GITHUB_TOKEN;
 const username = "sergio-alencar";
 
@@ -45,16 +63,32 @@ async function getLanguages(url) {
   const totalBytes = Object.values(totals).reduce((a, b) => a + b, 0);
 
   const sorted = Object.entries(totals)
-    .sort((a, b) => b[1] - a[1])
     .map(([lang, bytes]) => ({
       lang,
-      percent: ((bytes / totalBytes) * 100).toFixed(2),
-    }));
+      percent: (bytes / totalBytes) * 100,
+    }))
+    .sort((a, b) => b.percent - a.percent);
+
+  let main = [];
+  let othersPercent = 0;
+
+  for (const item of sorted) {
+    if (item.percent < 1) {
+      othersPercent += item.percent;
+    } else {
+      main.push(item);
+    }
+  }
+
+  if (othersPercent > 0) {
+    main.push({ lang: "Others", percent: othersPercent });
+  }
 
   let output = "## Most used languages\n\n";
 
-  for (const { lang, percent } of sorted) {
-    output += `- **${lang}** – ${percent}%\n`;
+  for (const { lang, percent } of main) {
+    const emoji = LANGUAGE_EMOJIS[lang] || "📌";
+    output += `- ${emoji} **${lang}** – ${percent.toFixed(2)}%\n`;
   }
 
   fs.writeFileSync("LANGUAGES.md", output);
