@@ -49,3 +49,12 @@
 ---
 
 ## Most used languages
+
+- **PHP** – 27.28%
+- **JavaScript** – 25.90%
+- **CSS** – 21.39%
+- **HTML** – 18.45%
+- **TypeScript** – 4.68%
+- **C#** – 1.97%
+- **Shell** – 0.29%
+- **Dockerfile** – 0.04%
