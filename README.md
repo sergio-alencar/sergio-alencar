@@ -21,8 +21,6 @@
 	<img width="16" />
 	<img alt="PHP" title="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 	<img width="16" />
-	<img alt="wordpress" title="WordPress" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-plain.svg" />
-	<img width="16" />
 	<img alt="Tailwind" title="Tailwind" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
 	<img width="16" />
 	<img alt="CSS" title="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
