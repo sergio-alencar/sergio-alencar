@@ -35,10 +35,10 @@
 
 ## Most used languages
 
-- 🟨 **JavaScript** – 35.08%
-- 📄 **HTML** – 26.50%
-- 🎨 **CSS** – 22.00%
-- 🔷 **TypeScript** – 9.92%
-- 🐍 **Python** – 3.05%
-- 🎯 **C#** – 2.92%
-- 📦 **Others** – 0.53%
+- 🟨 **JavaScript** – 32%
+- 📄 **HTML** – 25%
+- 🎨 **CSS** – 20%
+- 🔷 **TypeScript** – 17%
+- 🐍 **Python** – 3%
+- 🎯 **C#** – 3%
+- 📦 **Others** – 0%
