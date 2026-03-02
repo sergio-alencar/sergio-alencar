@@ -88,8 +88,9 @@ async function getLanguages(url) {
 
   for (const { lang, percent } of main) {
     const emoji = LANGUAGE_EMOJIS[lang] || "📌";
-    output += `- ${emoji} **${lang}** – ${percent.toFixed(2)}%\n`;
+    output += `- ${emoji} **${lang}** – ${percent.toFixed(0)}%\n`;
   }
 
   fs.writeFileSync("LANGUAGES.md", output);
 })();
+
