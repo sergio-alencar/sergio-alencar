@@ -27,8 +27,13 @@
 	<img width="16" />
 	<img alt="HTML" title="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 	<img width="16" />
+	<img alt="Playwright" title="Playwright" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" />
+	<img width="16" />
+	<img alt="Docker" title="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+	<img width="16" />
 	<img alt="Figma" title="Figma" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 	<img width="16" />
+
 </div>
 
 ###
