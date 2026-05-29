@@ -19,13 +19,13 @@
 	<img width="16" />
 	<img alt="MySQL" title="MySQL" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg"/ >
 	<img width="16" />
-	<img alt="PHP" title="PHP" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-	<img width="16" />
 	<img alt="Tailwind" title="Tailwind" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
 	<img width="16" />
 	<img alt="CSS" title="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 	<img width="16" />
 	<img alt="HTML" title="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+	<img width="16" />
+	<img alt="Node.js" title="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg" />
 	<img width="16" />
 	<img alt="Playwright" title="Playwright" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" />
 	<img width="16" />
