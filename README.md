@@ -40,9 +40,9 @@
 
 ## Most used languages
 
-- 🔷 **TypeScript** – 53%
-- 📄 **HTML** – 17%
-- 🎨 **CSS** – 16%
+- 🔷 **TypeScript** – 54%
+- 📄 **HTML** – 16%
+- 🎨 **CSS** – 15%
 - 🟨 **JavaScript** – 10%
 - 🎯 **C#** – 4%
 - 📦 **Others** – 1%
