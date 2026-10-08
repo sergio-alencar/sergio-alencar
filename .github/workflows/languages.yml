@@ -18,11 +18,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
-          node-version: 22
+          node-version: 24
 
       # GH_PAT is required to read private repositories (GITHUB_TOKEN only sees this one).
       - run: node scripts/languages.js
@@ -37,9 +37,11 @@ jobs:
           if ! git diff --quiet README.md; then
             git add README.md
             git commit -m "chore: update global language stats"
+            git pull --rebase
             git push
           # Scheduled workflows are disabled after 60 days without repo activity.
           elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt $(( 45 * 86400 )) ]; then
             git commit --allow-empty -m "chore: keep scheduled workflow active"
+            git pull --rebase
             git push
           fi
