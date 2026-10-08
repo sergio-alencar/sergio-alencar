@@ -22,6 +22,8 @@ const README_PATH = "README.md";
 const START_MARKER = "<!-- LANGUAGES:START -->";
 const END_MARKER = "<!-- LANGUAGES:END -->";
 const OTHERS_THRESHOLD = 1;
+// Repositories left out of the stats (e.g. course projects or bundled third-party code).
+const EXCLUDED_REPOS = new Set(["bikcraft", "bikcraft-wordpress"]);
 
 const token = process.env.GH_TOKEN;
 if (!token) throw new Error("GH_TOKEN is not set");
@@ -31,6 +33,7 @@ const QUERY = `
     viewer {
       repositories(first: 100, after: $cursor, ownerAffiliations: OWNER, isFork: false) {
         nodes {
+          name
           languages(first: 20, orderBy: { field: SIZE, direction: DESC }) {
             edges { size node { name } }
           }
@@ -62,6 +65,8 @@ async function getLanguageTotals() {
     const { nodes, pageInfo } = await graphql({ cursor });
 
     for (const repo of nodes) {
+      if (EXCLUDED_REPOS.has(repo.name)) continue;
+
       for (const { size, node } of repo.languages.edges) {
         totals[node.name] = (totals[node.name] ?? 0) + size;
       }
