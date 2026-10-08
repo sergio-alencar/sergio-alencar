@@ -6,33 +6,32 @@
 <h2 align="left">Techs and tools</h2>
 <div align="left">
 	<img alt="React" title="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-	<img width="16" />
-	<img alt="JavaScript" title="JavaScript" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/ >
-	<img width="16" />
-	<img alt="TypeScript" title="TypeScript" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/ >
-	<img width="16" />
-	<img alt="Python" title="Python" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg"/ >
-	<img width="16" />
-	<img alt="CSharp" title="C#" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg"/ >
-	<img width="16" />
-	<img alt="PostgreSQL" title="PostgreSQL" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg"/ >
-	<img width="16" />
-	<img alt="MySQL" title="MySQL" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg"/ >
-	<img width="16" />
+	&emsp;
+	<img alt="JavaScript" title="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+	&emsp;
+	<img alt="TypeScript" title="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+	&emsp;
+	<img alt="Python" title="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" />
+	&emsp;
+	<img alt="CSharp" title="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" />
+	&emsp;
+	<img alt="PostgreSQL" title="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" />
+	&emsp;
+	<img alt="MySQL" title="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" />
+	&emsp;
 	<img alt="Tailwind" title="Tailwind" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
-	<img width="16" />
+	&emsp;
 	<img alt="CSS" title="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-	<img width="16" />
+	&emsp;
 	<img alt="HTML" title="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-	<img width="16" />
+	&emsp;
 	<img alt="Node.js" title="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg" />
-	<img width="16" />
+	&emsp;
 	<img alt="Playwright" title="Playwright" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" />
-	<img width="16" />
+	&emsp;
 	<img alt="Docker" title="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-	<img width="16" />
+	&emsp;
 	<img alt="Figma" title="Figma" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
-	<img width="16" />
 
 </div>
 
