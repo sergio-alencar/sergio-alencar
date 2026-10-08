@@ -5,37 +5,41 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: languages
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - uses: actions/checkout@v4
-        with:
-          persist-credentials: false
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
-      - run: npm install node-fetch
-
+      # GH_PAT is required to read private repositories (GITHUB_TOKEN only sees this one).
       - run: node scripts/languages.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Update README
-        run: |
-          sed -i '/## Most used languages/,$d' README.md
-          cat LANGUAGES.md >> README.md
+          GH_TOKEN: ${{ secrets.GH_PAT }}
 
       - name: Commit and push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "chore: update global language stats" || exit 0
-          git push https://x-access-token:${GH_PAT}@github.com/sergio-alencar/sergio-alencar.git
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore: update global language stats"
+            git push
+          # Scheduled workflows are disabled after 60 days without repo activity.
+          elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt $(( 45 * 86400 )) ]; then
+            git commit --allow-empty -m "chore: keep scheduled workflow active"
+            git push
+          fi
