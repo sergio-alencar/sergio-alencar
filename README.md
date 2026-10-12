@@ -42,9 +42,9 @@
 
 - 🔷 **TypeScript** – 69%
 - 🎨 **CSS** – 10%
-- 📄 **HTML** – 9%
+- 📄 **HTML** – 8%
 - 🟨 **JavaScript** – 7%
 - 🎯 **C#** – 3%
-- 🐍 **Python** – 1%
+- 🐍 **Python** – 2%
 - 📦 **Others** – 1%
 <!-- LANGUAGES:END -->
